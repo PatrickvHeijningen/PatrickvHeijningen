@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @PatrickvHeijningen
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning how to use c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me patrickvheijningen@gmail.com
+# 👋 Hi, I’m Jean Pierre van Heijningen
 
-<!---
-PatrickvHeijningen/PatrickvHeijningen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Developer & Founder of @HederaSM 🌿  
+Building automation-driven SaaS tools that connect productivity with simplicity.
+
+---
+
+### 🧠 Focus Areas
+- Full-stack JavaScript (Node.js / Angular / React)
+- SaaS architecture & cloud deployment
+- Stripe integrations • Gmail automations • AWS services
+
+---
+
+### 🚀 Current Projects
+| Project | Description |
+|----------|--------------|
+| [HederaSM](https://github.com/HederaSM) | Main SaaS platform (public docs, private codebase) |
+| [Smartmail-SaaS](https://github.com/<yourusername>/Smartmail-SaaS) | Email automation system |
+
+---
+
+📫 **Contact:** [info@hederasm.com](mailto:info@hederasm.com)
