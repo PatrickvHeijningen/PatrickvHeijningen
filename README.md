@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jean Pierre van Heijningen
 
-Software Developer & Founder of @HederaSM 🌿  
+Software Developer & Founder of [HederaSM](https://github.com/HederaSM) 🌿  
 Building automation-driven SaaS tools that connect productivity with simplicity.
 
 ---
